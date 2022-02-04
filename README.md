@@ -1,4 +1,4 @@
-# CNC-Robotics
+# Automation and CNC
 
 The current repository contains documentation related to the development of CNC Robotics solutions for Lab automation applications assisted by Machine Learning algoritms.
 
