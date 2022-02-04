@@ -1,5 +1,11 @@
 # CNC-Robotics
-The current repository contains documentation related to the development of CNC Robotics solutions for Material Research applications assisted by ML.
 
-The project is based on a Router CNC of 3 axis operatin in cartesian coordinates using stepper motors as linear actuators. 
+The current repository contains documentation related to the development of CNC Robotics solutions for Lab automation applications assisted by Machine Learning algoritms.
+
+The project is focus in the development of two main systems:
+
+ 1) XYZ Positioning systems operating in cartesian coordinates 
+ 2) SCARA Robot. 
+ 
+both operating by combining stepper motors, servomotors and linear actuators. 
 
