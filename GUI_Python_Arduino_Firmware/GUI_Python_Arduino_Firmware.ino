@@ -5,7 +5,7 @@ void setup()
   Serial.begin(9600); 
   pinMode(LED_BUILTIN, OUTPUT); 
   digitalWrite (LED_BUILTIN, LOW); //initially set to low
-  Serial.println("This is my First Example.");
+  Serial.println("Basic building block for CNC Control #1");
 }
  
 void loop() 
