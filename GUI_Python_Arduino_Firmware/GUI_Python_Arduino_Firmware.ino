@@ -15,10 +15,10 @@ while (Serial.available())
     data = Serial.read();
   }
 
-  if (data == '1')
+  if (data == 'H')
   digitalWrite (LED_BUILTIN, HIGH);
 
-  else if (data == '0')
+  else if (data == 'L')
   digitalWrite (LED_BUILTIN, LOW);
 
 }
