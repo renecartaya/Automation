@@ -1,6 +1,7 @@
-int pin_dir = 2;
-int pin_step = 3;
-int period_ms = 50;
+// Variable declaration
+int pin_dir = 2; // direction pin setted at output # 2
+int pin_step = 3; // step pin setted at output # 2
+int period_ms = 50; // velocity setting
 
 void setup()
 {
@@ -17,3 +18,4 @@ void loop()
     delay(period_ms);
   } 
 }
+// Author: René A. Cartaya L.
