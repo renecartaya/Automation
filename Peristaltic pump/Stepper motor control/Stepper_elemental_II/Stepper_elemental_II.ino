@@ -1,5 +1,6 @@
-int pin_step = 2;
-int period_ms = 50;
+// Declared variables
+int pin_step = 2; // Output pin selection
+int period_ms = 50; // Velocity setting
 
 void setup()
 {
@@ -14,3 +15,4 @@ void loop()
     delay(period_ms);
   } 
 }
+// Author: René Cartaya
