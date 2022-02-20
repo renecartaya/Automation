@@ -18,3 +18,5 @@ Is necesary to install the module PySerial. One way is to run in the command pro
 
   >> pip install PySerial
 
+The folder GUI Firmware contains the code for the programming of the microcontrollers enabling them to receive command from the Computer. The folder GUI code contains the code in python for the control and data acquisition of the actuators and sensors in general.
+
