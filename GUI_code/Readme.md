@@ -5,3 +5,7 @@ During the testing loops, every code is developed using the Notebooks of jupyter
 The final version of each code under development is in the .exe format in the main folder and tested in Windows 11 OS.
 
 The project is under development. In the current stage is carried using a microcontroller Atmega 328P via one driver A4988 and one stepper motor nema 17.
+
+## Next steps
+
+Once the current project arrive to its completion, one optimized version will be developed to control one driver TB6500/6600 series.
