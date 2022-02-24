@@ -10,7 +10,7 @@ The project is focused in the development of:
  3) PID Control for sample temperature control
  4) Peristaltic pump for high accuracy liquids management
 
-both operating by combining stepper motors, servomotors, and linear actuators
+both operating by combining stepper motors, and servomotor.
 
 ## Requeriments
 
