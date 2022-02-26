@@ -7,8 +7,8 @@ The project is focused in the development of:
 
  1) XYZ Positioning systems operating in cartesian coordinates
  2) Selective Compliance Assembly Robot Arm (SCARA) Robot
- 3) PID Control for sample temperature control
- 4) Peristaltic pump for high accuracy liquids management
+ 3) Proportional Integral Derivative (PID) controller for sample temperature control
+ 4) Peristaltic pump for high accuracy liquids pumping
 
 The project is includs the operation of stepper motors, and servomotor.
 
