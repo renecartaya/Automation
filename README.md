@@ -6,7 +6,7 @@ The current repository contains documentation related to the development of CNC 
 The project is focused in the development of:
 
  1) XYZ Positioning systems operating in cartesian coordinates
- 2) SCARA Robot
+ 2) Selective Compliance Assembly Robot Arm (SCARA) Robot
  3) PID Control for sample temperature control
  4) Peristaltic pump for high accuracy liquids management
 
