@@ -12,7 +12,7 @@ The project is focused on the development of:
 
 The project includes the operation of stepper motors and servomotors.
 
-https://github.com/renecartaya/Automation-and-CNC/blob/main/Autosampler%20I.png
+![alt text](https://github.com/renecartaya/Automation-and-CNC/blob/main/Autosampler%20I.png)
 
 ## Requeriments
 
