@@ -12,6 +12,8 @@ The project is focused on the development of:
 
 The project includes the operation of stepper motors and servomotors.
 
+
+
 ## Requeriments
 
 It is necessary to install the module PySerial. One way is to run in the command prompt the following line.
