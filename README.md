@@ -27,3 +27,8 @@ The folder GUI Firmware contains the code for the programming of the microcontro
 ### XYZ Positioning system
 
 The XYZ Positioning system as actuators used 3xNema17 steppers motors and one 20 kg Servo Motor. The stepper motors were moved through driver A4988, and the stepper motors were moved using Arduino driving signals while the engine was connected directly to the power supply. The drivers were controlled through the Joy-IT Development board, an Arduino UNO compatible board. The system was also tested using an original Arduino UNO board. The power supply was settled at 6.8 Volts; it is the maximum suitable voltage for the Servomotor and enough to move the Steppers. 
+
+### Grafical User Interface
+
+![alt text](https://github.com/renecartaya/Automation-and-CNC/blob/main/Autosampler%20I.png)
+
