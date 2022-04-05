@@ -30,5 +30,7 @@ The XYZ Positioning system as actuators used 3xNema17 steppers motors and one 20
 
 ### Grafical User Interface
 
+The GUI allows to control the XYZ positioning system in order to access any position on the table, get the home position or lead specific functions.
+
 ![alt text](https://github.com/renecartaya/Automation-and-CNC/blob/main/GUI_Autosampler.png)
 
