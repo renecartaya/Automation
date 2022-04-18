@@ -36,3 +36,6 @@ The GUI allows to control the XYZ positioning system in order to access any posi
 
 ![alt text](https://github.com/renecartaya/Automation-and-CNC/blob/main/GUI_Autosampler.png)
 
+## Observation
+
+The current system is under development. 
