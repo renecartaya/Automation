@@ -40,4 +40,4 @@ The GUI allows to control the XYZ positioning system in order to access any posi
 
 The current system is under development. 
 
-/pypi/license/pip
+
