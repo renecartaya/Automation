@@ -5,7 +5,7 @@ The current repository contains documentation related to the development of Lab 
 
 The project is focused on the development of:
 
- 1) XYZ Positioning systems operating in cartesian coordinates
+ 1) XYZ Positioning systems
  2) Selective Compliance Assembly Robot Arm (SCARA) Robot
  3) Proportional Integral Derivative (PID) controller for sample temperature control
  4) Peristaltic pump for liquids handling
