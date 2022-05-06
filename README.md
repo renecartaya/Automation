@@ -1,7 +1,7 @@
 
 # Automation and CNC
 
-The current repository contains documentation related to the development of Lab automation solutions.
+The current repository contains documentation related to the development of automation solutions.
 
 The project is focused on the development of:
 
