@@ -32,7 +32,7 @@ The XYZ Positioning system as actuators uses three units of Nema17 steppers moto
 
 ### Grafical User Interface (GUI)
 
-The GUI allows to control the XYZ positioning system for applications as peack and place and liquid handling solutions as examples. There the GUI is aimed to command the access of selected position on the table, get the home position or lead specific functions.
+The GUI allows to control the XYZ positioning system for applications as pick and place (PnP) and liquid handling solutions as examples. There the GUI is aimed to command the access of selected position on the table, get the home position or lead specific functions.
 
 ![alt text](https://github.com/renecartaya/Automation-and-CNC/blob/main/GUI_Autosampler.png)
 
