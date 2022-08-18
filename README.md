@@ -1,14 +1,13 @@
 
 # Automation and CNC
 
-The current repository contains documentation related to the development of automation solutions.
-
-The project is focused on the development of:
+The current repository contains documentation related to the development of different automation projects. Among the the project under development can be mentioned the development of:
 
  1) XYZ Positioning systems
  2) Selective Compliance Assembly Robot Arm (SCARA) Robot
  3) Proportional Integral Derivative (PID) controller for sample temperature control
  4) Peristaltic pump for liquids handling
+ 5) Coffee machines - integrating embedding programming, temperature control and water pumping
 
 The project includes the operation of stepper motors and servomotors.
 
