@@ -12,7 +12,7 @@ The project is focused on the development of:
 
 The project includes the operation of stepper motors and servomotors.
 
-## XYZ Positioning system
+## XYZ Positioning system - applications for pick and place (pnp), and liquid handler
 
 ### System scheme
 
@@ -36,8 +36,12 @@ The GUI allows to control the XYZ positioning system for applications as pick an
 
 ![alt text](https://github.com/renecartaya/Automation-and-CNC/blob/main/GUI_Autosampler.png)
 
-## Observation
+### Observation
 
 The current repository is under development. 
+
+# Coffee machine project
+
+It is an automation project aimed to didactically combine heating systems, water pumps and embedded programming for the construction of a coffee machine for daily use. 
 
 
