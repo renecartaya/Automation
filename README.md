@@ -40,7 +40,7 @@ The GUI allows to control the XYZ positioning system for applications as pick an
 
 The current repository is under development. 
 
-# Coffee machine project
+## Coffee machine project
 
 It is an automation project aimed to didactically combine heating systems, water pumps and embedded programming for the construction of a coffee machine for daily use. 
 
