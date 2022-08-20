@@ -39,8 +39,8 @@ The GUI allows to control the XYZ positioning system for applications as pick an
 
 The current repository is under development. 
 
-## Coffee machine project
+## Liquid sample transfer and storage
 
-It is an automation project aimed to didactically combine heating systems, water pumps and embedded programming for the construction of a coffee machine for daily use. 
+It is an automation project aimed to didactically combine heating/cooling systems, liquid pumps and embedded programming for control of sample temperatures and liquid sample transfers. 
 
 
