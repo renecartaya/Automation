@@ -41,6 +41,6 @@ The current repository is under development.
 
 ## Liquid sample transfer and storage
 
-It is an automation project aimed to didactically combine heating/cooling systems, liquid pumps and embedded programming for control of sample temperatures and liquid sample transfers. 
+It is an automated module aimed to combine heating/cooling systems, liquid pumps and embedded programming for control of sample temperatures and liquid sample transfers integrated into the XYZ positioning system.
 
 
