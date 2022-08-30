@@ -11,7 +11,7 @@ The current repository contains documentation related to the development of diff
 
 The project includes the operation of stepper motors and servomotors.
 
-## XYZ Positioning system - applications for pick and place (pnp), and liquid handler
+## Release 1: XYZ Positioning system - applications for pick and place (pnp), and liquid handler
 
 ### System scheme
 
