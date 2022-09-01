@@ -7,7 +7,7 @@ The current repository contains documentation related to the development of diff
  2) Selective Compliance Assembly Robot Arm (SCARA) Robot
  3) Proportional Integral Derivative (PID) controller for sample temperature control
  4) Peristaltic pump for liquids handling
- 5) Coffee machines - integrating embedding programming, temperature control and water pumping
+ 5) Liquid sample transfer and storage - integrating embedding programming, temperature control and water pumping
 
 The project includes the operation of stepper motors and servomotors.
 
@@ -35,12 +35,11 @@ The GUI allows to control the XYZ positioning system for applications as pick an
 
 ![alt text](https://github.com/renecartaya/Automation-and-CNC/blob/main/GUI_Autosampler.png)
 
-### Observation
-
-The current repository is under development. 
-
 ## Liquid sample transfer and storage
 
 It is an automated module aimed to combine heating/cooling systems, liquid pumps and embedded programming for control of sample temperatures and liquid sample transfers integrated into the XYZ positioning system.
 
+### Observation
+
+The current repository is under development. 
 
