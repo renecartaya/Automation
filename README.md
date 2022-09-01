@@ -1,5 +1,5 @@
 
-# Automation and CNC
+# Automation and Numerical Control (CNC)
 
 The current repository contains documentation related to the development of different automation projects. Among the the project under development can be mentioned the development of:
 
