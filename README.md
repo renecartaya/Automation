@@ -19,7 +19,7 @@ The project includes the operation of stepper motors and servomotors.
 
 ### Requeriments
 
-It is necessary to install the module PySerial. One way is to run in the command prompt the following line.
+It is necessary to install the module PySerial, it is a package that enable us to send via serial port (USB) from the computer, control signals to the microcontroller. In the case of Windows, one way is to run in the command prompt(i. e. CMD) the following line.
 
   >> pip install PySerial
 
