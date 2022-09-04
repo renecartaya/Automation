@@ -1,6 +1,6 @@
 # Readme
 
-This folder contains the firmware code for the embedded programming of the Atmega 348P microcontroller that enable us to control the stepper motors and servomotors in the current project. This codes enable us to control the hardware according to the commands sent via the GUI.
+This folder contains the firmware code for the embedded programming of the Atmega328P microcontroller that enable us to control the stepper motors and servomotors in the current project. This codes enable us to control the hardware according to the commands sent via the GUI.
 
 ## Current status
 
