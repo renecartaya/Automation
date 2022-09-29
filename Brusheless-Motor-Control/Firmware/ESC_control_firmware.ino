@@ -15,7 +15,7 @@ void setup()
   Serial.begin(9600); 
   pinMode(LED_BUILTIN, OUTPUT); 
   digitalWrite (LED_BUILTIN, LOW); //initially set to low
-  Serial.println("Basic building block for CNC Control #1");
+  Serial.println("Basic building block for CNC Control #2");
   ESC_con.attach(9);  // attaches the servo on pin 9 to the servo object
 }
  
@@ -35,24 +35,27 @@ while (Serial.available())
 
   if  (data == 'a') 
   velocity = 0; 
-  ESC_con.write(velocity);              // tell servo to go to position in variable 'pos'
+  ESC_con.write(velocity);              // set the velocity of rotation
 
   if  (data == 'b') 
-  velocity = 50; 
-  ESC_con.write(velocity);              // tell servo to go to position in variable 'pos'
+  velocity = 10; 
+  ESC_con.write(velocity);              // set the velocity of rotation
 
   if  (data == 'c') 
-  velocity = 100; 
-  ESC_con.write(velocity);              // tell servo to go to position in variable 'pos'
+  velocity = 20; 
+  ESC_con.write(velocity);              // set the velocity of rotation
 
   if  (data == 'd') 
-  velocity = 150; 
-  ESC_con.write(velocity);              // tell servo to go to position in variable 'pos'
+  velocity = 30; 
+  ESC_con.write(velocity);              // set the velocity of rotation
 
   if  (data == 'e') 
-  velocity = 200; 
-  ESC_con.write(velocity);              // tell servo to go to position in variable 'pos'
+  velocity = 40; 
+  ESC_con.write(velocity);              // set the velocity of rotation
 
+  if  (data == 'f') 
+  velocity = 50; 
+  ESC_con.write(velocity);              // set the velocity of rotation
 }
 
   
