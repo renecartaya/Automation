@@ -1,7 +1,9 @@
 # README
 
-The current folder contains basic examples of GUI's developed based in TKinter with customized designs.  
+The current folder contains basic examples of GUIs developed based on TKinter with customized designs.
 
-In this regard, the folder also contains examples of GUI's developed in the recent available Custom Tkinter also known as CTKinter. 
+In this regard, the folder also contains examples of GUIs developed in the recently available Custom Tkinter, also known as CTKinter.
 
-For more information about CTKinter, please consult the original source: https://github.com/TomSchimansky/CustomTkinter
+For more information about CTKinter, please consult the source: 
+
+ [1] https://github.com/TomSchimansky/CustomTkinter
