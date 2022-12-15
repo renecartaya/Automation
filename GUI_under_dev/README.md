@@ -1,6 +1,6 @@
 # README
 
-The current folder contains basic examples of GUIs developed based on TKinter with customized designs. This means, this script allows you to use your own design for the buttons, but you should include the text in the design. 
+The current folder contains basic examples of GUIs developed based on TKinter with customized designs. This script allows you to use your design for the buttons in .png format; nevertheless, you should include the text in the design.
 
 ## Example
 
